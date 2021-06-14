@@ -1,5 +1,5 @@
 # Disease-Predictor
-Using Machine Learning to Predict Diseases from Symptoms in Python
+Using Machine Learning to Predict Diseases from Symptoms in Python where CSV files were trained
 
 **Motivation:**
 
